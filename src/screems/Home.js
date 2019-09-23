@@ -6,7 +6,7 @@ class Home extends React.Component {
         return (
             <Container>
                 <Row>
-                    <Col>1 of 2</Col>
+                    <Col>1 xpto of 2</Col>
                     <Col>2 of 2</Col>
                 </Row>
                 <Row>
