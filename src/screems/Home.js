@@ -2,11 +2,14 @@ import React from 'react';
 import {Container, Row, Col} from 'react-bootstrap';
 
 class Home extends React.Component {
+
     render() {
         return (
             <Container>
                 <Row>
-                    <Col>1 xpto of 2</Col>
+                    <Col xs={12}>
+                        <h1>Home Page</h1>
+                    </Col>
                     <Col>2 of 2</Col>
                 </Row>
                 <Row>
