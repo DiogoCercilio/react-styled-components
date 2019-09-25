@@ -1,4 +1,5 @@
 import React from 'react';
+import '../resources/BlankLayout.css';
 
 export default class BlankLayout extends React.Component {
 
