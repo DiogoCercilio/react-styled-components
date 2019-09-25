@@ -5,7 +5,7 @@ import { Home, Login, Splash, Page404 } from './screems' // Pages
 
 // Global Styles
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './resources/App.css'
+import './styles/App.css'
 
 function App() {
   return (

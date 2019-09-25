@@ -1,6 +1,6 @@
 import React from 'react';
 import { Sidebar, Header, Footer } from './';
-import '../resources/MainLayout.css';
+import '../styles/MainLayout.css';
 
 export default class MainLayout extends React.Component {
     render() {

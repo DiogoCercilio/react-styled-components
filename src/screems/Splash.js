@@ -31,7 +31,7 @@ class Splash extends React.Component {
     render() {
         return (
             <View>
-                <Img className='revealing' src="http://pngimg.com/uploads/github/github_PNG40.png"/>
+                <Img className='revealing' src="~/github-logo.png"/>
             </View>            
         )
     }
